@@ -1,0 +1,6 @@
+[submodule "F21/15-151"]
+	path = F21/15-151
+	url = https://github.com/MrAttoAttoAtto/CMU-15151
+[submodule "F21/21-122"]
+	path = F21/21-122
+	url = https://github.com/MrAttoAttoAtto/CMU-21122
